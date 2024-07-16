@@ -1,0 +1,8 @@
+# NAME: SelfDirect
+payload:
+  - DOMAIN-SUFFIX,nextfuture.top
+  - DOMAIN-SUFFIX,nextfuture.cyou
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,sarlab.cc
+  - bing.com
