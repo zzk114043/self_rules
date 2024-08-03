@@ -1,4 +1,4 @@
-# NAME: SelfRules
+# NAME: SelfProxy
 payload:
   - DOMAIN-SUFFIX,keleofficial.com
   - DOMAIN-SUFFIX,aca.best
