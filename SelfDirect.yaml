@@ -5,4 +5,6 @@ payload:
   - DOMAIN-SUFFIX,cloudfront.net
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,sarlab.cc
-  - bing.com
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,springer.com
+  - DOMAIN-SUFFIX,sciencedirect.com
