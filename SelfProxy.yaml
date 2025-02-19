@@ -36,4 +36,6 @@ payload:
   - DOMAIN-KEYWORD,sci-hub
   - DOMAIN-SUFFIX,evvcv.com
   - DOMAIN-SUFFIX,sagernet.org
+  - DOMAIN-SUFFIX,greasyfork.org
+  - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-SUFFIX,mojie.me
