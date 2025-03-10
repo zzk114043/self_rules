@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,springer.com
   - DOMAIN-SUFFIX,sciencedirect.com
+  - DOMAIN-SUFFIX,txyz.ai
