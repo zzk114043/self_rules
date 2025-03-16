@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,springer.com
   - DOMAIN-SUFFIX,sciencedirect.com
   - DOMAIN-SUFFIX,txyz.ai
+  - DOMAIN-SUFFIX,azure.cn
