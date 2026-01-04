@@ -41,5 +41,4 @@ payload:
   - DOMAIN-SUFFIX,mojie.me
   - DOMAIN-SUFFIX,lavteam.org
   - DOMAIN-SUFFIX,i-i.me
-  - DOMAIN-SUFFIX,sms-activate.io
-  - DOMAIN-SUFFIX,sms-activate.org
+  - DOMAIN-KEYWORD,sms-activate
